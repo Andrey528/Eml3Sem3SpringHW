@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ru.geekbrains</groupId>
-	<artifactId>Eml3Sem3SpringHW</artifactId>
+	<artifactId>GB_Eml3Sem3SpringHW</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Eml3Sem3SpringHW</name>
 	<description>Home Work</description>
